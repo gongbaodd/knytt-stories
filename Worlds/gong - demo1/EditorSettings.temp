@@ -1,6 +1,6 @@
 [Positions]
-X Map=996
-Y Map=1001
+X Map=1000
+Y Map=1000
 [Powers]
 Power0=0
 Power1=0
@@ -14,15 +14,3 @@ Power8=0
 Power9=0
 Power10=0
 Power11=0
-Power12=0
-[Flags]
-Flag0=0
-Flag1=0
-Flag2=0
-Flag3=0
-Flag4=0
-Flag5=0
-Flag6=0
-Flag7=0
-Flag8=0
-Flag9=0
